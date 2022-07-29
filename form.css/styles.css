@@ -3,6 +3,10 @@
     text-align: center;
 }
 
+.text-info {
+    padding-bottom: 30px;
+}
+
 .middel {
     justify-self: center;
     align-items: center;
